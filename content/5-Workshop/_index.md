@@ -77,7 +77,7 @@ The overall architecture is built with **100% serverless services**, ensuring:
 
 ## Output
 
-- The blurred video is stored in the **output S3 bucket** and is ready to be shared with downstream systems or end users.
+- The blurred video is stored in the **output S3 bucket** and is ready to be shared with downstream systems or end users..
 
 ---
 
